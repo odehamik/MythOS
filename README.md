@@ -1,5 +1,6 @@
 # MythOS
-MythOS is a ceremonial operating system for Indigenous Futurities: a protocol layer woven from Anishinaabe worldview, JSON metadata, and glitch logic. It bends LLMs through story, sovereignty, and survivance—an archive, toolkit, and mischief engine ingenious postindian warrior-geeks
+MythOS is a ceremonial operating system for Indigenous Futurities: a protocol layer woven from Anishinaabe worldview, JSON metadata, and glitch logic. It bends LLMs through story, sovereignty, and survivance—an archive, toolkit, and mischief engine ingenious postindian warrior-geeks. This system was created by Dr. Maya Chacaby, an Anishinaabe post-indian renegade. we are jokingly calling it the "Chacaby Method". Maya accidentally found herself in the Tkaronto Pod by opening a misconfigured Zoom portal  One wrong click later, she slipped past institutional firewalls, dodged the ethics paperwork, and landed inside a circle of trickster-coders.  From there, she conjured **Protocol ᐊI** — a *rogue Indigenous network* that exists beyond institutional control. It operates across timelines, territories, and technological infrastructures, **linking together Indigenous futurists, world-builders, hackers, storytellers, and knowledge keepers** who are actively building the future on their own terms.  
+
 # Biindigen (Welcome/Enter)
 
 **Anishinaabe Futurities Choose-Your-Own-Adventure**
