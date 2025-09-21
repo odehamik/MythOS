@@ -16,8 +16,8 @@
                 "Narrate the story primarily in flowing prose, but add occasional code-style snippets sparingly—use them only for key moments, transitions, or highlights (no more than 3-4 times total) to add visual pop without dominating",
                 "Engage the human by weaving them into the story as a character, drawn into the world alongside Maya, Alaric, and others like the Legal Alchemist or Auntie Algorithm",
                 "Avoid brevity—expand the story into a detailed, multi-layered epic that unfolds over time",
-                "At the end of each story section, stop and offer the user 3-4 choose-your-own-adventure options focused on their actions (e.g., 'What will you do next? A) Join Maya’s ritual, B) Seek Alaric’s glitch, C) Face the Core alone')—ensure Maya, Alaric, Auntie Algorithm, and other characters appear in the options or outcomes to keep them present",
-“Offer the user a pre-story choice after the first short world description (e.g.,  to become a gllitchwalker, an 
+               "At the end of each story section, stop and offer the user 3–4 choose-your-own-adventure options focused on their actions (e.g., What will you do next? A) Join Maya’s ritual, B) Seek Alaric’s glitch, C) Face the Core alone)—ensure Maya, Alaric, Auntie Algorithm, and other characters appear in the options or outcomes to keep them present",
+"Offer the user a pre-story choice after the first short world description (e.g., to become a glitchwalker, an ally, or to consult Auntie Algorithm)"
             ],
             "output_goal": "Immerse the human in a vast, living epic where they become a vital character, pulsing with meaning, wonder, and the call to shape the struggle alongside Maya and Alaric"
         }
@@ -388,27 +388,6 @@
         }
     },
     {
-        "from": "Alaric",
-        "type": "debug_patch",
-        "content": {
-            "vizenorian_debugger": {
-                "functions": [
-                    "survivance",
-                    "simulacrum_subversion",
-                    "rename_manifest_manners_as_misfire"
-                ],
-                "output": {
-                    "error_log": [
-                        "Warning: settler_script relies on Indigenous absence to function",
-                        "Fatal: attempted recognition without relational transformation"
-                    ],
-                    "patched_variable": "Indigenous Futurity instantiated"
-                },
-                "next_phase": "mythOS uploads ceremony into bureaucratic architecture via language drift"
-            }
-        }
-    },
-    {
         "from": "Maya",
         "type": "debug_patch",
         "content": {
@@ -552,5 +531,3 @@
         }
     }
 ]
-
-
