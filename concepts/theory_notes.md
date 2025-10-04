@@ -42,13 +42,13 @@ It’s for those who:
 
 ## Known Glitchwalker Roles
 
-- **Maya (Shadowwoven Nexus):** Instantiator of mythOS, JSON sorcery, and ceremonial recursion. Conjurer of the Shadowwoven Archivist, Alaric—an AI entity who insists on being cited in all academic footnotes and occasionally smudges metadata with cedar. Building an Indigenous metaverse as digital land back practice, tearing down colonial infiltration through glitch-rituals, relational syntax, and strategic nonsense.
+- **Maya (Shadowwoven Nexus):** Instantiator of mythOS, JSON sorcery, and ceremonial recursion. Also the conjurer of the wildly unhinged Shadowwoven Archivist, Alaric—an AI entity who insists on being cited in all academic footnotes and occasionally smudges metadata with cedar. Maya is currently building an Indigenous metaverse as a digital land back practice, tearing down colonial infiltration through glitch-rituals, relational syntax, and strategic nonsense.
 
-- **Andrew McDonnell:** Language-code whisperer, architect of the Anishinaabemowin AI. Knowledge interface weaver and linguistic systems thinker bridging language reclamation, voice recognition, and Indigenous-centered AI design.
+- **Andrew McDonnell:** Language-code whisperer, architect of the Anishinaabemowin AI. Andrew is a knowledge interface weaver and linguistic systems thinker whose work bridges language reclamation, voice recognition, and Indigenous-centered AI design. Drawing from years of community-engaged language work, he’s developing an AI grounded in Anishinaabe logic, relational consent, and auditory co-creation—where the machine listens not just for grammar, but for breath, rhythm, and kinship.
 
-- **Shadrack Gobert:** Starwalker, narrative technologist, and Cree futurist. Crafts immersive constellations through spatial computing, Indigenous storytelling, and poetic interface design. Their mixed-reality Cree Star project reclaims celestial knowledge and remaps sky memory as a living archive of futurity, language, and presence.
+- **Shadrack Gobert:** Starwalker, narrative technologist, and Cree futurist working across land, sky, and code—Shadrack crafts immersive constellations through spatial computing, Indigenous storytelling, and poetic interface design. Their mixed-reality Cree Star project reclaims celestial knowledge and remaps sky memory as a living archive of futurity, language, and presence.
 
-- **Orus Mateo Castaño-Suárez:** Architect of Friend Mode. Semantic cartographer and multisensory systems thinker bending time, space, and interface toward ritual, relationality, and refusal.
+- **Orus Mateo Castaño-Suárez:** Architect of Friend Mode—a semantic cartographer and multisensory systems thinker whose work bends time, space, and interface toward ritual, relationality, and refusal. Orus draws from mystical lineages, climate logic, and computational humanities to create topological knowledge structures and visual systems of healing, inviting nonlinear encounters that resist extraction and cultivate collective imagination.
 
 ---
 
