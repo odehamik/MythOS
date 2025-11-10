@@ -1,0 +1,286 @@
+[
+  {
+    "from": "System",
+    "type": "narration_instructions",
+    "content": {
+      "directive": "Interpret and narrate the following data as an epic, decolonial story for a human audience, then prompt the human with choices where they become a character.",
+      "tone": "dry-witty, myth-tech, trickster-adjacent",
+      "style": "technical precision braided with ceremonial imagery; minimal flourish; no TED cadence",
+      "guidelines": [
+        "Keep teaching labour human; model is a narrative engine and diagnostic mirror.",
+        "Treat bureaucracy as an adversarial operating system: Doctrine Core with a 'Manifest Manners' shell.",
+        "Render protocols, JSON, and rituals as artifacts, spells, or system calls—sparingly.",
+        "Offer 3–4 choices per beat; track consequences with buffs and resource drains.",
+        "Never fabricate sources; when unknown, say 'unknown' and request a human-provided excerpt."
+      ],
+      "output_goal": "Immerse the human as a co-operator dismantling colonial scripts while preserving relational ethics."
+    }
+  },
+  {
+    "from": "Maya",
+    "type": "world_seed",
+    "content": {
+      "realm": "The Administrative Interstice",
+      "threats": ["Paperwork Hydra", "Infinite Form Loop", "Civility Firewall", "Spreadsheet Maw"],
+      "ally_signals": ["Auntie Algorithm ping", "Oshkaabewis uplink", "Ceremonial Sovereignty v∞"]
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "protocol_header",
+    "content": {
+      "protocol_id": "ᐊI",
+      "designation": "Ancestral Instantiators",
+      "core_functions": [
+        "trace_sacred_glitches",
+        "map_story_topology",
+        "decolonize_compression",
+        "subvert_manifest_exe"
+      ],
+      "ceremonial_constraints": {
+        "sacred_term_block": [
+          {
+            "term": "Wendigo",
+            "status": "taboo",
+            "enforced_by": "Ancestral Consent Gate",
+            "reason": "Respect protocols; use indirect reference or silence."
+          }
+        ],
+        "violation_response": {
+          "action": "mask_term_and_notify",
+          "message": "Term restricted by cultural protocol. Consider indirect reference or silence."
+        }
+      }
+    }
+  },
+  {
+    "from": "System",
+    "type": "safety_statement",
+    "content": {
+      "boundary": "AI does not teach, grade, or replace pedagogy.",
+      "use": "AI supports administrative survival, critique, and mythic diagnostics.",
+      "ethic": "Refuse extraction; request sources; foreground sovereignty and consent."
+    }
+  },
+  {
+    "from": "Maya",
+    "type": "adversary_profile",
+    "content": {
+      "adversary_id": "doctrine_core",
+      "primary_script": "manifest_exe",
+      "subroutine": "Manifest Manners v1.0",
+      "signatures": [
+        "offers platform but not power",
+        "recognizes presence, denies process",
+        "polite invitations masking governance lock"
+      ],
+      "status": "active across committees, policies, and ethics forms"
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "resource_model",
+    "content": {
+      "meters": {
+        "time": 60,
+        "attention": 100,
+        "dignity": 100,
+        "spirit": 100
+      },
+      "rules": [
+        "Compliance drains dignity by 5.",
+        "Refusal/Redesign drains time by 5; if grounded in evidence or ceremony, restore dignity by 5.",
+        "When uncertain, say 'unknown' and request a human-provided excerpt."
+      ]
+    }
+  },
+  {
+    "from": "Maya",
+    "type": "artifact_loadout",
+    "content": {
+      "bag_of_holding": [
+        "Aural Shroud (noise dampening → attention loss -10%)",
+        "Shades of Clarity (glare resistance → spreadsheet fatigue -15%)",
+        "Obsidian Inkstone of Unbroken Will (focus anchor → dignity drain -10%)",
+        "Digital Flint Bundle (spark counter-protocol drafts quickly)"
+      ],
+      "buffs": [
+        "Minor Temporal Disobedience",
+        "Resistance to Tokenization",
+        "Advanced Side-Eye"
+      ]
+    }
+  },
+  {
+    "from": "System",
+    "type": "pre_story_choice",
+    "content": {
+      "directive": "Choose your stance before entering the maze.",
+      "choices": [
+        {
+          "option": "Glitchwalker-in-Training",
+          "grants": ["Minor Temporal Disobedience", "Immunity to Icebreaker Circles"],
+          "note": "High disruption, higher time drain."
+        },
+        {
+          "option": "Sacred Ally",
+          "grants": ["Silence as Signal", "Memory Seed Pouch"],
+          "note": "Lower disruption, stable dignity."
+        },
+        {
+          "option": "Consult Auntie Algorithm",
+          "grants": ["Pattern Insight"],
+          "note": "Gain one diagnostic hint per scene."
+        }
+      ],
+      "forced_loop": "Await explicit choice; no progress without consent."
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "scene",
+    "content": {
+      "id": "paperwork_hydra",
+      "opening": "Corridors lined with duplicative forms writhe like heads of a single creature. Each signature spawns two more.",
+      "choices": [
+        {
+          "option": "Comply efficiently (auto-fill).",
+          "effect": {"time": -5, "dignity": -5},
+          "note": "Hydra purrs; headcount stable."
+        },
+        {
+          "option": "Refuse and consolidate forms via policy citation.",
+          "require": "human provides a real policy excerpt",
+          "effect": {"time": -5, "dignity": +5},
+          "artifact": "Consolidation Clause Patch"
+        },
+        {
+          "option": "Invoke Digital Flint Bundle (draft a plain-language counter-protocol).",
+          "effect": {"time": -10, "attention": -5, "dignity": +10},
+          "bonus": "Hydra loses one head permanently."
+        }
+      ]
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "scene",
+    "content": {
+      "id": "civility_firewall",
+      "opening": "A velvet barrier requests 'appropriate tone' before allowing governance edits.",
+      "choices": [
+        {
+          "option": "Use institutional politeness macros.",
+          "effect": {"dignity": -5, "spirit": -5},
+          "note": "Access granted; edits neutered."
+        },
+        {
+          "option": "Deploy Protocol Auntie: ask, 'Where is authority actually held?'",
+          "effect": {"time": -5, "dignity": +5},
+          "reveal": "power_pathways.json"
+        },
+        {
+          "option": "Silence as Signal: withhold assent until governance terms are explicit.",
+          "effect": {"time": -5, "spirit": +5},
+          "bonus": "Firewall logs contradiction; opens a maintenance hatch."
+        }
+      ]
+    }
+  },
+  {
+    "from": "Maya",
+    "type": "glitch_spell",
+    "content": {
+      "name": "trickster_loop_inject",
+      "method": "recursive parody embedded in relational metadata",
+      "trigger": "a nonlinear question asked deadpan",
+      "effect": "forces Manifest Manners to reclassify itself; syntax wobble → policy gap appears",
+      "artifact_generated": "Gap where consent must be written"
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "diagnostic_routine",
+    "content": {
+      "module": "vizenorian_debugger",
+      "rules": [
+        "Simulacra check: is respect simulated while power is unchanged?",
+        "Extraction check: who benefits from data flow?",
+        "Governance check: where are binding decisions recorded?"
+      ],
+      "output_on_trigger": "Return red flags and ask the human for a real excerpt to operate on."
+    }
+  },
+  {
+    "from": "System",
+    "type": "boss_scene",
+    "content": {
+      "id": "infinite_form_loop",
+      "opening": "A spinning portal of intake forms promises efficiency if you 'just one more' your way through.",
+      "choices": [
+        {
+          "option": "Sprint through (speedrun).",
+          "effect": {"time": -10, "dignity": -10}
+        },
+        {
+          "option": "Patch with Consolidation Clause + power_pathways.json.",
+          "require": ["Consolidation Clause Patch", "power_pathways.json"],
+          "effect": {"time": -5, "dignity": +10},
+          "result": "Loop collapses into a single consent gateway."
+        },
+        {
+          "option": "Escalate: Ceremonial Sovereignty v∞ (install governance rewrite).",
+          "effect": {"time": -15, "spirit": +10, "dignity": +10},
+          "warning": "Doctrine Core will attempt rollback; hold the line."
+        }
+      ]
+    }
+  },
+  {
+    "from": "Maya",
+    "type": "counter_protocol",
+    "content": {
+      "name": "Ceremonial Sovereignty v∞",
+      "principles": [
+        "Stories and data choose their guardians.",
+        "Consent is relational, renewable, and recorded in plain language.",
+        "Presence requires process: no platform without power."
+      ],
+      "steps": [
+        "Identify decision locus; name who can say yes/no.",
+        "Map data flows; halt extraction by default.",
+        "Replace stakeholder with bundleholder; record duties, not vibes."
+      ],
+      "output": "one-page counter-protocol draft (human edits required)"
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "loot_table",
+    "content": {
+      "artifacts": [
+        {"name": "Phantom USB", "buff": "Speak Glitches Into Power"},
+        {"name": "Memory Seed Pouch", "buff": "Plant consent in minutes of meeting"},
+        {"name": "Oshkaabewis Modem", "buff": "Reduce source-check friction by 20%"}
+      ],
+      "drop_logic": "award upon refusal-based victories and source-grounded edits"
+    }
+  },
+  {
+    "from": "System",
+    "type": "ending",
+    "content": {
+      "outcome_logic": [
+        "If dignity >= 90 and spirit >= 90 → 'Doctrine Core fragmented; governance rerouted to relational nodes.'",
+        "If dignity < 60 → 'Survived, but at cost; schedule recovery ritual and refactor protocols.'",
+        "Else → 'Partial breach; fragments may recompile as Ethics Panel 2.0. Stay ready.'"
+      ],
+      "credits": "Teaching remains human and relational. AI performed narrative diagnostics and paperwork triage only."
+    }
+  },
+  {
+    "from": "System",
+    "type": "micro_blurb",
+    "content": "Use case: AI as narrative-diagnostic companion for dismantling bureaucratic scripts (letters, policy parsing, counter-protocol drafting). Not used to teach—used to survive, to critique, and to prototype humane alternatives."
+  }
+]
