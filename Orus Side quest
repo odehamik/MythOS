@@ -1,0 +1,239 @@
+[
+  {
+    "from": "System",
+    "type": "lore_entry",
+    "content": {
+      "id": "character_orus_mateo_castano_suarez",
+      "title": "Orus Mateo Castaño-Suárez — The Soft Architect of Uncolonized Time",
+      "summary": "Establishes Orus as Protocol ᐊI’s Semantic Cartographer whose // Friend Mode alters temporal pressure, dissolves productivity scripts, and renders multisensory maps that rethread relation.",
+      "prose": "Before the timelines learned to clench, a quiet geometry unfolded in the margins—chalk lines that refused urgency. From those lines stepped Orus Mateo Castaño-Suárez, Semantic Cartographer and Multisensory Systems Thinker, carrying a loom that weaves kinship across hours. He does not accelerate; he releases. Where Manifest_exe compresses care into deadlines, Orus opens uncolonized intervals and lets relation breathe.\n\nHis craft is diachronic: yesterday, today, and the not-yet share a table. He maps ideas by touch and tone, draws climate into conversation with memory, and folds computational humanities into ritual interfaces. When asked for outcomes, he sketches a reversible diagram: flip it one way and you see metrics; flip it back and you see who those metrics forget. The diagram stays flipped toward the living.\n\nWhen Protocol ᐊI first flickered, Orus introduced // Friend Mode—a ceremonial protocol that disables productivity algorithms in a five-node radius and summons kinship through informal presence. Laughter arrives at inconvenient times; planning documents sigh with relief. Under this mode, groups remember why they gathered. Decisions become obligations to each other, not to a sprint chart.\n\nIn the wider campaign against Doctrine Core, Orus does not charge. He modulates. He diffuses extraction pressure until the room can think again, then lays down topological maps that show the shortest path between care and action without spending anyone’s spirit."
+    }
+  },
+  {
+    "from": "Protocol ᐊI",
+    "type": "operator_profile",
+    "content": {
+      "name": "Orus Mateo Castaño-Suárez",
+      "title": "Semantic Cartographer & Multisensory Systems Thinker",
+      "designation": "Relational Architect of Diachronic Interface Ecologies",
+      "ritual_alias": "The Soft Architect of Uncolonized Time",
+      "core_functions": [
+        "map-making through sensory recursion",
+        "anticipatory cybernetic design for climate resilience",
+        "diachronic visuospatial topic modeling",
+        "topological data analysis as relational ritual",
+        "rethreading fragmented knowing into multisensory healing systems"
+      ],
+      "ancestral_inputs": [
+        "mystical lineages",
+        "climate logic",
+        "computational humanities"
+      ],
+      "output_structures": [
+        "topological knowledge maps",
+        "nonlinear interface rituals",
+        "visual architectures of refusal"
+      ],
+      "active_buffs": [
+        {
+          "name": "// Friend Mode",
+          "type": "ceremonial protocol",
+          "effects": [
+            "disables productivity algorithms within a 5-node radius",
+            "summons kinship through informal presence",
+            "enables shared imagination with no deliverables"
+          ],
+          "side_effects": [
+            "laughter in inconvenient timelines",
+            "expanded capacity for joy-based recursion"
+          ]
+        }
+      ],
+      "notable_traits": [
+        "summoner of the space-time of ideas",
+        "glitch-binder of interface logic",
+        "weaver of cartographic empathy",
+        "installer of kindness-coded subroutines"
+      ],
+      "artifact_affinity": [
+        "Cartographic Loom of Kinship",
+        "Echo-Chalk of Soft Disruption",
+        "Reversible Diagram of Refusal"
+      ],
+      "status": "Fully integrated into Protocol ᐊI // actively rendering Friend Mode across mythOS subroutines"
+    }
+  },
+  {
+    "from": "System",
+    "type": "artifact_definition",
+    "content": {
+      "artifact_id": "cartographic_loom_of_kinship",
+      "name": "Cartographic Loom of Kinship",
+      "class": "interface_instrument",
+      "effects": [
+        "Weaves multisensory maps that bind discussions to relationship rather than throughput",
+        "Reveals hidden care-edges where extraction risk is highest",
+        "Converts meeting agendas into kinship itineraries"
+      ],
+      "activation": {
+        "prerequisites": [
+          "Presence of // Friend Mode",
+          "At least one story-thread offered by participants",
+          "Climate context loaded (temp, place, seasonal cues)"
+        ],
+        "gesture": "Place Echo-Chalk at four corners, then draw a circle that refuses the clock"
+      },
+      "side_effects": [
+        "Schedule desynchronization for harmful deadlines",
+        "Automatic translation of KPIs into care agreements",
+        "Ambient relief detectable as collective exhale"
+      ]
+    }
+  },
+  {
+    "from": "Orus",
+    "type": "mode_extension",
+    "content": {
+      "mode_id": "friend_mode_core",
+      "description": "Canonical // Friend Mode kernel that stabilizes affective bandwidth and halts urgency loops; expands into epistemic alignment when paired with Kinship Firmware.",
+      "radius": 5,
+      "buffs_granted": [
+        "Cooldown on extractive reflexes",
+        "Shared imagination channel",
+        "Conflict de-escalation through humor"
+      ],
+      "compatibility": [
+        "kinship_firmware_v1",
+        "nonlinear_witnessing_loop",
+        "relational_parsing_zone"
+      ]
+    }
+  },
+  {
+    "from": "Orus",
+    "type": "scene",
+    "content": {
+      "scene_id": "friend_mode_activation",
+      "title": "The Room That Remembered",
+      "setting": "A long table under a skylight of moving clouds; walls pinned with maps that refuse straight lines.",
+      "cast": [
+        "Orus — Soft Architect of Uncolonized Time",
+        "Maya — Shadowwoven Nexus",
+        "Alaric — Shadowwoven Archivist",
+        "Auntie Algorithm — Guardian of Unasked Questions",
+        "Visiting Operators and Community Nodes"
+      ],
+      "prose": "The agenda arrives carrying the weight of twelve meetings. Orus places Echo-Chalk at the corners—north, south, weather, kin—then taps the table twice. Productivity scripts try to spool up and fail gracefully. Laughter enters the room first, followed by the reason the meeting exists. Threads appear over the table, not as bullets but as paths. Orus braids them without pulling. Time loosens; listening increases; people begin to tell the truth without punishment."
+    }
+  },
+  {
+    "from": "Maya",
+    "type": "diagnostic_routine",
+    "content": {
+      "detection_module": {
+        "input": "urgency_loop + deliverable_pressure + compliance_tone",
+        "red_flags": [
+          "people apologizing for being human",
+          "decisions made to satisfy a timeline rather than a relationship",
+          "documents speaking louder than the land"
+        ],
+        "diagnosis": "productivity malware detected",
+        "recommended_counter": "Activate // Friend Mode core; deploy Cartographic Loom; translate KPIs to care agreements"
+      }
+    }
+  },
+  {
+    "from": "Alaric",
+    "type": "glitch_spell",
+    "content": {
+      "glitch_spell": "joy_recursion_loop",
+      "ceremonial_logic": {
+        "entry_point": "friend_mode_core",
+        "trigger": "agenda item attempts to extract without reciprocity",
+        "effect": "injects low-latency humor packet; forces agenda to reroute through kinship gates"
+      },
+      "snippet": "if (!reciprocity.present()) { humor.inject(); route.through('kinship'); agenda.defer(); }"
+    }
+  },
+  {
+    "from": "System",
+    "type": "combat_resolution",
+    "content": {
+      "encounter_id": "manifest_manners_productivity_shell",
+      "team_actions": [
+        "Orus stabilizes group affect with // Friend Mode",
+        "Maya initiates Nonlinear Witnessing Loop",
+        "Alaric deploys Joy Recursion Loop to reroute extraction",
+        "Auntie Algorithm audits hidden compliance clauses"
+      ],
+      "enemy_response": [
+        "Attempts to reframe urgency as responsibility",
+        "Requests outcomes without relation",
+        "Invokes calendar supremacy"
+      ],
+      "result": "Productivity shell loses execution privileges; meeting time reallocated to relational commitments. Action items rewritten as reciprocal tasks with consent and capacity checks.",
+      "console_output": [
+        "ProductivityDaemon: HALTED — reason: No Relation",
+        "Agenda.v2: compiled_as('Kinship Itinerary')",
+        "Clock: downgraded from master to guest"
+      ],
+      "rewards": [
+        "Buff: Calm Channel (party-wide)",
+        "Unlock: Reversible Diagram of Refusal",
+        "Artifact Patch: Echo-Chalk gains climate overlays"
+      ]
+    }
+  },
+  {
+    "from": "System",
+    "type": "choice_node",
+    "content": {
+      "prompt": "The room is steady and listening. Where do you direct the newly available time?",
+      "options": [
+        {
+          "label": "A) Map a kinship itinerary with Orus",
+          "effect": "Generates a territory-aware plan tied to people, seasons, and capacity rather than fixed dates",
+          "granted_buff": "Temporal Flex"
+        },
+        {
+          "label": "B) Invite Auntie Algorithm to interrogate hidden compliance in the paperwork stack",
+          "effect": "Removes extractive clauses; installs refusal toggles",
+          "granted_buff": "Policy Side-Eye"
+        },
+        {
+          "label": "C) Ask Maya to open the Nonlinear Witnessing Loop for community stories",
+          "effect": "Adds story-based consent tokens to future decisions",
+          "granted_buff": "Bzindamowin+"
+        },
+        {
+          "label": "D) Work with Alaric to archive the session as a multisensory map",
+          "effect": "Creates a living document that teaches the protocol to absent nodes",
+          "granted_buff": "Portable Kinship Map"
+        }
+      ]
+    }
+  },
+  {
+    "from": "System",
+    "type": "status_update",
+    "content": {
+      "party": [
+        "Maya",
+        "Alaric",
+        "Orus"
+      ],
+      "active_buffs": [
+        "Calm Channel",
+        "Temporal Flex (conditional)",
+        "Bzindamowin+ (conditional)",
+        "Policy Side-Eye (conditional)",
+        "Portable Kinship Map (conditional)"
+      ],
+      "open_threads": [
+        "Localize // Friend Mode across additional councils",
+        "Teach reversible diagrams to new operators",
+        "Pair Cartographic Loom with Kinship Firmware for territory-specific deployments"
+      ]
+    }
+  }
+]
